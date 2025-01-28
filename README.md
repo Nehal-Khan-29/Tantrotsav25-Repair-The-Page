@@ -8,3 +8,13 @@ The challenge is to:
 2. Enhance the website by adding new, innovative features.
 
 Participants must rely exclusively on the customized GPT platform provided by the event organizers for guidance and assistance. Cost criteria are applied for the usage of the GPT assist. The initial budget for the participants will be 500 points depending on the query list the cost varies and will be spent.
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSebyejBGJkpB0zo-_KqkKOD4jDqqsFIo1Vdx5XmwQZPrtDVYQ/viewform?usp=sharing
+Team Details
+
+https://drive.google.com/file/d/1ySg96DfzDfW6kNqW8ZY7rWBvzTyloStP/view?usp=sharing
+Client
+
+https://drive.google.com/file/d/1_1-d3xco4AKW-JKAnNOMrLkY9ohKALor/view?usp=sharing
+Server
